@@ -4,6 +4,12 @@ Find the challenge hosted by [Compass Security](https://www.compass-security.com
 
 Use your XSS skills to pop up *alert(1)* windows on every day.
 
+Helpful resources and tools:
+
+* En-/Decoding: https://gchq.github.io/CyberChef/
+
+---
+
 **SPOILER ALERT!** Stop reading here, if you want to solve the challenges yourself.
 
 ---
