@@ -12,7 +12,7 @@ https://xmass.compass-demo.com/level1
 **+++ Day 2 +++**  
 https://xmass.compass-demo.com/level2
 ```
-"><script>alert(1)</script
+a"><script>alert(1)</script
 ```
 
 **+++ Day 3 +++**
