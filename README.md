@@ -1,8 +1,14 @@
-# Merry XmaSS challenge 2021
+# Merry XmaSS – XSS advent calendar 2021
 
-Find the challenge here **https://xmass.compass-demo.com/**
+Find the challenge hosted by [Compass Security](https://www.compass-security.com/de/) here: https://xmass.compass-demo.com/
 
-The goal is to get an *alert(1)* popup by injecting code via the given forms in the XSS advent calendar.
+Use your XSS skills to pop up *alert(1)* windows on every day.
+
+**SPOILER ALERT!** Stop reading here, if you want to solve the challenges yourself.
+
+---
+
+These are some solutions I was able to find, I am sure there are many more.
 
 **+++ Day 1 +++**  
 https://xmass.compass-demo.com/level1
