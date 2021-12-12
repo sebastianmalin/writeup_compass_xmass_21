@@ -61,5 +61,10 @@ alternativ solution *(mouse cursor has to be in the 'conent area' of the browser
 **+++ Day 9 +++**  
 https://xmass.compass-demo.com/level9
 ```
+<img src="#" onerror="alert(1)"/>
+```
+**+++ Day 10 +++**  
+https://xmass.compass-demo.com/level10
+```
 tbc
 ```
