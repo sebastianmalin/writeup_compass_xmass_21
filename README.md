@@ -115,5 +115,5 @@ https://xmass.compass-demo.com/level16
 **+++ Day 17 +++**
 https://xmass.compass-demo.com/level17
 ```
-" onerror="javascript:alert(1)"
+" onerror="alert(1)"
 ```
