@@ -22,6 +22,7 @@ Note: WIP
 ```
 
 **+++ Level 4 +++**
+
 Decode (base64) the nonce. Change the time to now. Encode (base64) the changed timestamp. Use the encoded timestamp as nonce value.
 ```html
 <script nonce="MzEuMDEuMjAyMy8xNjozMw==">alert(document.domain)</script>
